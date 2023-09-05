@@ -20,9 +20,11 @@
     letter-spacing: -0.6px;
 }
 
+section {
+    display: inline-block
+}
+
 .main-title {
-    max-width: 495px;
-    width: 100%;
     color: #1B0A42;
     font-family: 'Ramaraja', serif;
     font-size: 72px;
@@ -32,11 +34,11 @@
     letter-spacing: 1.44px;
     margin-top: 203px;
     margin-left: 200px;
+    max-width: 495px;
+    width: 100%;
 }
 
 .main-text {
-    max-width: 583px;
-    width: 100%
     color: #9A9A9A;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -46,6 +48,8 @@
     letter-spacing: 0.4px;
     margin-top: 10px;
     margin-left: 200px;
+    max-width: 583px;
+    width: 100%
 }
 
 .main-button {
@@ -59,13 +63,10 @@
     letter-spacing: 0.32px;
     border-radius: 6px;
     background: #A3DC00;
-    margin-bottom: 50px;
+    margin-top: 50px;
     margin-left: 200px;
     width: 152px;
     height: 64px;
     border: none
 }
 
-section {
-    display: inline-block
-}
