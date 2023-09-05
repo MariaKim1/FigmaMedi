@@ -1,0 +1,71 @@
+.logo {
+    color: #0A1B32;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 160% */
+    letter-spacing: -0.6px;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    color: #A3DC00;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.6px;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    color: #1B0A42;
+    font-family: 'Ramaraja', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px; /* 105.556% */
+    letter-spacing: 1.44px;
+    margin-top: 203px;
+    margin-left: 200px;
+}
+
+.main-text {
+    max-width: 583px;
+    width: 100%
+    color: #9A9A9A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    letter-spacing: 0.4px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.main-button {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.32px;
+    border-radius: 6px;
+    background: #A3DC00;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    width: 152px;
+    height: 64px;
+    border: none
+}
+
+section {
+    display: inline-block
+}
